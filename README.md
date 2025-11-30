@@ -7,9 +7,7 @@ Unauthorized attacks on networks you do not own are illegal.
 git clone https://github.com/Hehehasmr/DDOS_X-S-E-C-O-R-D-E-R.git
 2. Enter the folder
 cd DDOS_X-S-E-C-O-R-D-E-R
-3. Install required modules
-pip install -r requirements.txt
-4. Run the tool
+3. Run the tool
 python3 XSECORDER.py
 📦 Contents
 XSECORDER.py        → Main script  
