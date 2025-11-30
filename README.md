@@ -1,28 +1,20 @@
-# DDOS_X-S-E-C-O-R-D-E-R
-DDOS_TOOL
-DDOS X‑S‑E‑C‑O‑R‑D‑E‑R
-A testing‑only educational tool designed for learning about Python networking, stress‑testing concepts, and console UI design.
-⚠️ For legal testing only on devices and networks you own.
-📥 Download / Clone
+X S E C O R D E R – DDoS Testing Tool
+A simple educational/testing tool created for network stress‑test experiments.
+This project is for learning, research, and controlled testing ONLY.
+Unauthorized attacks on networks you do not own are illegal.
+🚀 Installation
+1. Clone the repository
 git clone https://github.com/Hehehasmr/DDOS_X-S-E-C-O-R-D-E-R.git
+2. Enter the folder
 cd DDOS_X-S-E-C-O-R-D-E-R
-📦 Install Requirements
-Create a requirements.txt (if you want GitHub to show dependencies):
-colorama
-tqdm
-Install them:
+3. Install required modules
 pip install -r requirements.txt
-Or install manually:
-pip install colorama tqdm
-▶️ Run the Script
-Your main executable file is:
-XSECORDER.py
-So you run it with:
+4. Run the tool
 python3 XSECORDER.py
-📝 Notes
-This project is for education and testing only.
-Never stress‑test systems you don’t own or control.
-Works on macOS, Linux, and Termux.
-💀 Banner + Branding
-X S E C O R D E R
-Custom ASCII banner included inside the script.
+📦 Contents
+XSECORDER.py        → Main script  
+requirements.txt    → Python dependencies  
+README.md           → Project documentation
+⚠️ Legal Notice
+This project is for testing your own servers, networks, and educational research only.
+You are fully responsible for how you use this tool.
